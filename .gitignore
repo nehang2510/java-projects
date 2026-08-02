@@ -1,0 +1,30 @@
+# Compiled Java bytecode
+*.class
+
+# Packaged archives
+*.jar
+*.war
+*.ear
+
+# Files generated at runtime by student-file-io
+students.txt
+
+# IDEs
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+.settings/
+.classpath
+.project
+
+# OS cruft
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs & crash dumps
+*.log
+hs_err_pid*
+replay_pid*
